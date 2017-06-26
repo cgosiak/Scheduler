@@ -1,12 +1,12 @@
 {
-  "name": "electron-quick-start",
-  "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "name": "scheduler",
+  "version": "0.1.0",
+  "description": "An Electron Application for scheduling at small businesses",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/electron/electron-quick-start",
+  "repository": "https://github.com/cgosiak/Scheduler",
   "keywords": [
     "Electron",
     "quick",
