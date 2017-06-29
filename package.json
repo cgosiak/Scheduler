@@ -19,5 +19,7 @@
   "devDependencies": {
     "electron": "~1.6.2"
   },
-  "dependencies": {}
+  "dependencies": {
+    "material-modal": "^0.1.2"
+  }
 }

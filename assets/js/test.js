@@ -10,7 +10,7 @@ $(document).on(
 	"click",
 	"#addEmployee",
 	function(){
-		createEmployee();
+		// Open add employee modal
 });
 
 function loadEmployees() {
